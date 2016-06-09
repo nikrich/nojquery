@@ -1,6 +1,6 @@
 ## Javascript extension library
 
-[![Coverage Status](https://coveralls.io/repos/nikrich/nojquery/badge.svg?branch=master)](https://coveralls.io/r/nikrich/nojquery?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/nikrich/nojquery/badge.svg?branch=master)](https://coveralls.io/github/nikrich/nojquery?branch=master)
 [![Build Status](https://travis-ci.org/nikrich/nojquery.svg?branch=master)](https://travis-ci.org/nikrich/nojquery)
 [![GitHub issues](https://img.shields.io/github/issues/nikrich/nojquery.svg)](https://github.com/nikrich/nojquery/issues)
 [![GitHub forks](https://img.shields.io/github/forks/nikrich/nojquery.svg)](https://github.com/nikrich/nojquery/network)
